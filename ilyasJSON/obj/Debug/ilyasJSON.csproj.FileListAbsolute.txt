@@ -1,0 +1,13 @@
+D:\Ражбадинов Рамазан\ilyasJSON\bin\Debug\ilyasJSON.exe.config
+D:\Ражбадинов Рамазан\ilyasJSON\bin\Debug\ilyasJSON.exe
+D:\Ражбадинов Рамазан\ilyasJSON\bin\Debug\ilyasJSON.pdb
+D:\Ражбадинов Рамазан\ilyasJSON\bin\Debug\Newtonsoft.Json.dll
+D:\Ражбадинов Рамазан\ilyasJSON\bin\Debug\Newtonsoft.Json.xml
+D:\Ражбадинов Рамазан\ilyasJSON\obj\Debug\ilyasJSON.csproj.AssemblyReference.cache
+D:\Ражбадинов Рамазан\ilyasJSON\obj\Debug\ilyasJSON.Form1.resources
+D:\Ражбадинов Рамазан\ilyasJSON\obj\Debug\ilyasJSON.Properties.Resources.resources
+D:\Ражбадинов Рамазан\ilyasJSON\obj\Debug\ilyasJSON.csproj.GenerateResource.cache
+D:\Ражбадинов Рамазан\ilyasJSON\obj\Debug\ilyasJSON.csproj.CoreCompileInputs.cache
+D:\Ражбадинов Рамазан\ilyasJSON\obj\Debug\ilyasJSON.csproj.Up2Date
+D:\Ражбадинов Рамазан\ilyasJSON\obj\Debug\ilyasJSON.exe
+D:\Ражбадинов Рамазан\ilyasJSON\obj\Debug\ilyasJSON.pdb

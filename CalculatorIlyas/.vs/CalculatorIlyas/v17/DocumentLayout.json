@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u0436\u0430\u043C\u0430\u043B\u043E\u0432 \u0418\u043B\u044C\u044F\u0441\\CalculatorIlyas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0F9990-A0D2-4C5B-B151-9C2C20F280F0}|..\\CalculatorTest\\CalculatorTest.csproj|d:\\\u0434\u0436\u0430\u043C\u0430\u043B\u043E\u0432 \u0438\u043B\u044C\u044F\u0441\\calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7BDA39-0C9C-432A-B0E5-1ED874ABA717}|CalculatorIlyas.csproj|d:\\\u0434\u0436\u0430\u043C\u0430\u043B\u043E\u0432 \u0438\u043B\u044C\u044F\u0441\\calculatorilyas\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7BDA39-0C9C-432A-B0E5-1ED874ABA717}|CalculatorIlyas.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\\u0414\u0436\u0430\u043C\u0430\u043B\u043E\u0432 \u0418\u043B\u044C\u044F\u0441\\CalculatorIlyas\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "D:\\\u0414\u0436\u0430\u043C\u0430\u043B\u043E\u0432 \u0418\u043B\u044C\u044F\u0441\\CalculatorIlyas\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:46:47.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u0414\u0436\u0430\u043C\u0430\u043B\u043E\u0432 \u0418\u043B\u044C\u044F\u0441\\CalculatorTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorTest\\UnitTest1.cs",
+              "ToolTip": "D:\\\u0414\u0436\u0430\u043C\u0430\u043B\u043E\u0432 \u0418\u043B\u044C\u044F\u0441\\CalculatorTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\CalculatorTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:40:38.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
